@@ -42,30 +42,11 @@ Rather than asking the model to generate a response using only its internal trai
 In simple terms:
 
 
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/fcfc8890-79cb-4467-af04-c52052fced84" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/fcfc8890-79cb-4467-af04-c52052fced84" />
 
 
 
 
-
-
-
-
-
-```text
-User Question
-      |
-      v
-Information Retrieval
-      |
-      v
-Relevant Documents
-      |
-      v
-      LLM
-      |
-      v
-Generated Response
 ```
 
 The model generates an answer based not only on what it learned during training, but also on information retrieved at runtime.
