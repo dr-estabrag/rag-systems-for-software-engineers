@@ -51,7 +51,7 @@ Information Retrieval
 Relevant Documents
       |
       v
-LLM
+      LLM
       |
       v
 Generated Response
