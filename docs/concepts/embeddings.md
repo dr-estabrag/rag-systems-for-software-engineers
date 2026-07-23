@@ -118,19 +118,12 @@ Embeddings play a central role in Retrieval-Augmented Generation.
 
 A simplified RAG workflow looks like this:
 
-```text
-Documents
-    ↓
-Embedding Model
-    ↓
-Vector Database
-    ↓
-Similarity Search
-    ↓
-Relevant Documents
-    ↓
-LLM
-```
+
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a9d138de-0793-4f4a-9d95-58cb401fcf30" />
+
+
+
 
 When a user submits a question:
 
