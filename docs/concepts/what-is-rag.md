@@ -47,9 +47,8 @@ In simple terms:
 
 
 
-```
 
-The model generates an answer based not only on what it learned during training, but also on information retrieved at runtime.
+ The model generates an answer based not only on what it learned during training, but also on information retrieved at runtime.
 
 ---
 
