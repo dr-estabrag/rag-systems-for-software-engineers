@@ -41,6 +41,17 @@ Rather than asking the model to generate a response using only its internal trai
 
 In simple terms:
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fcfc8890-79cb-4467-af04-c52052fced84" />
+
+
+
+
+
+
+
+
+
 ```text
 User Question
       |
