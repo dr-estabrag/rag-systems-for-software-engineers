@@ -120,7 +120,7 @@ A simplified RAG workflow looks like this:
 
 
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a9d138de-0793-4f4a-9d95-58cb401fcf30" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/a9d138de-0793-4f4a-9d95-58cb401fcf30" />
 
 
 
