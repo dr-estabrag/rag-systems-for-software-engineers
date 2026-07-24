@@ -1,10 +1,4 @@
-Create or open:
 
-```text
-docs/concepts/embeddings.md
-```
-
-Replace its contents with this:
 
 ````markdown
 # Embeddings: A Software Engineer's Perspective
