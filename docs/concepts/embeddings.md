@@ -826,5 +826,4 @@ They are an architectural bridge between unstructured information and programmab
 
 The quality of the final system depends not only on the vectors, but on how the complete system around them is engineered.
 
-````
 
