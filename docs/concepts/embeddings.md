@@ -828,4 +828,3 @@ The quality of the final system depends not only on the vectors, but on how the 
 
 ````
 
-````
