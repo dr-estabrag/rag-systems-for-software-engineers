@@ -68,7 +68,7 @@ An embedding model converts the item into a vector: an ordered sequence of numbe
 
 For example:
 
-```text
+
 "Software architecture"
 
         ↓
@@ -94,9 +94,9 @@ A useful mental model is to think of an embedding as a coordinate.
 
 In an ordinary two-dimensional map, a location might be represented by:
 
-```text
+
 (x, y)
-```
+
 
 Nearby coordinates correspond to nearby physical locations.
 
