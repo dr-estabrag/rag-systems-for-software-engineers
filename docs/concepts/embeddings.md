@@ -828,10 +828,4 @@ The quality of the final system depends not only on the vectors, but on how the 
 
 ````
 
-After saving it, use this commit sequence:
-
-```powershell
-git add docs/concepts/embeddings.md
-git commit -m "Expand embeddings concept article"
-git push origin main
 ````
